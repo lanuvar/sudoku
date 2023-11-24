@@ -1,0 +1,31 @@
+/* Add your styles here */
+
+body{
+  background-color: lightgreen;
+}
+h1{
+  text-align: center;
+}
+
+div#kutuKapsa{
+  height: 530px;
+  width: 530px;
+  background-color: lightgrey;
+  border: 5px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+div.kutu{
+  height: 50px;
+  width: 50px;
+  background-color: lightskyblue;
+  color: black;
+  border: black 1px solid;
+  box-sizing: border-box;
+
+
+  text-align: center;
+  line-height: 50px;
+  margin:4px;
+}
+
